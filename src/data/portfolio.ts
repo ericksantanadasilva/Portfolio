@@ -155,18 +155,6 @@ export const portfolioData: PortfolioData = {
       featured: true,
     },
     {
-      id: 'portal-aluno',
-      title: 'PortalAluno',
-      description: {
-        pt: 'SaaS acadêmico para cursos preparatórios desenvolvido com Next.js, React, TypeScript e Express.',
-        en: 'Academic SaaS for preparatory courses built with Next.js, React, TypeScript and Express',
-      },
-      tags: ['Node.js', 'TypeScript', 'Docker', 'PostgreSQL'],
-      githubUrl: 'https://github.com/ericksantanadasilva/PortalAluno',
-      liveUrl: 'https://portal.ericksantana.dev.br',
-      featured: true,
-    },
-    {
       id: 'finance-ai',
       title: 'Finance AI',
       description: {
